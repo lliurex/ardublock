@@ -2,8 +2,8 @@ Source: ardublock
 Section: devel
 Priority: optional
 Maintainer: Lliurex Team <lliurex@edu.gva.es>
-Build-Depends: debhelper (>=9)
-Standards-Version: 3.9.6
+Build-Depends: debhelper (>=10)
+Standards-Version: 4.1.2
 Homepage: http://www.lliurex.net
 
 Package: ardublock
