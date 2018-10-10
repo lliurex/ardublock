@@ -1,3 +1,9 @@
+ardublock (20160726+lliurex12) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 10 Oct 2018 13:59:27 +0200
+
 ardublock (20160726+lliurex2) xenial; urgency=high
 
   * New compilation ardublock
