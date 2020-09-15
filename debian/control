@@ -1,0 +1,14 @@
+Source: ardublock
+Section: devel
+Priority: optional
+Maintainer: Lliurex Team <lliurex@edu.gva.es>
+Build-Depends: debhelper (>=10)
+Standards-Version: 4.1.2
+Homepage: http://www.lliurex.net
+
+Package: ardublock
+Architecture: any
+Pre-Depends:arduino-ide
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: ArduBlock
+ A graphical programming language for Arduino
