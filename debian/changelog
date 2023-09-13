@@ -1,0 +1,30 @@
+ardublock (20160726+lliurex22) focal; urgency=medium
+
+  * Initial release for focal
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 15 Sep 2020 14:22:12 +0200
+
+ardublock (20160726+lliurex12) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 10 Oct 2018 13:59:27 +0200
+
+ardublock (20160726+lliurex2) xenial; urgency=high
+
+  * New compilation ardublock
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Tue, 27 Jun 2017 12:25:19 +0200
+
+ardublock (20160726+lliurex1) xenial; urgency=high
+
+  * Adding new release 2.0.0-1 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Fri, 19 May 2017 10:16:59 +0200
+
+ardublock (20130712+lliurex1) xenial; urgency=medium
+
+  * Initial release
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 20 Sep 2016 16:36:26 +0200
+
