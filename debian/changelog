@@ -1,3 +1,9 @@
+ardublock (20160726+lliurex23) jammy; urgency=medium
+
+  * Initial release for jammy
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 13 Sep 2023 12:18:49 +0200
+
 ardublock (20160726+lliurex22) focal; urgency=medium
 
   * Initial release for focal
