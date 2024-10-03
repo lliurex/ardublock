@@ -1,3 +1,10 @@
+ardublock (20181110+0lliurex25) jammy; urgency=medium
+
+  * Update to last release 2.2.0 from https://github.com/stfc/ardublock/
+  * Won't compile anymore due to faulty dependencies so that's all, folks.
+
+ -- Juanma1980 <juanma1980@gmail.com>  Thu, 03 Oct 2024 09:29:28 +0200
+
 ardublock (20160726+lliurex23) jammy; urgency=medium
 
   * Initial release for jammy
