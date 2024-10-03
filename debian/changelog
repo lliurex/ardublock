@@ -1,4 +1,4 @@
-ardublock (20181110+0lliurex25) jammy; urgency=medium
+ardublock (20181110+0lliurex25) noble; urgency=medium
 
   * Update to last release 2.2.0 from https://github.com/stfc/ardublock/
   * Won't compile anymore due to faulty dependencies so that's all, folks.
